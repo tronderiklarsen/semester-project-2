@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.45283,0,0,1,-11.3208,0)">
+        <rect x="25" y="0" width="53" height="24" style="fill:none;"/>
+        <g transform="matrix(0.360544,0,0,0.258065,-175.824,-26.0645)">
+            <g id="Omega-Logo-24x24" serif:id="Omega Logo 24x24">
+                <rect x="557" y="101" width="147" height="93" style="fill:none;"/>
+                <g transform="matrix(0.538462,0,0,0.340659,546.769,92.8242)">
+                    <g>
+                        <path d="M155.5,24C230.836,24 292,85.164 292,160.5C292,235.836 230.836,297 155.5,297C80.164,297 19,235.836 19,160.5C19,85.164 80.164,24 155.5,24ZM155.5,115C180.612,115 201,135.388 201,160.5C201,185.612 180.612,206 155.5,206C130.388,206 110,185.612 110,160.5C110,135.388 130.388,115 155.5,115Z" style="fill:rgb(18,20,22);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

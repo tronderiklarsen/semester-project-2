@@ -1,0 +1,33 @@
+button {
+    padding: 16px;
+    border: 1px solid $color-secondary;
+    background: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+@mixin btn-common {
+    color: $color-secondary;
+    border: none;
+}
+
+.admin-login-btn {
+    margin-top: 32px;
+    background: $color-green;
+    @include btn-common;
+}
+
+.add {
+    background: $color-green;
+    @include btn-common;
+}
+
+.delete {
+    background: $color-red;
+    @include btn-common;
+}
+
+.update, .cart-btn, .checkout {
+    background: $color-green;
+    @include btn-common;
+}
